@@ -59,9 +59,11 @@ Wir sind auf
 zu finden, in absteigender Interaktionsfrequenz.
 
 
-## Aktuelles
+## Aktuelles und mehr
 
-Der German [OWASP Day 2025](https://god.owasp.de/2025/) fand am 26.11.2025 in Düsseldorf statt, unsere Konferenz war ausverkauft. Es gab ein bombastisches [Programm](https://god.owasp.de/2025/#program), dieses Mal mit zwei Tracks, und wie üblich ein Networking-Event am Vorabend. Die Community-Trainings sowie das [Chapter-Meeting](https://owasp.org/www-chapter-germany/chapter_meetings/) fanden eine Tag davor statt. Details auf [god.owasp.de/2025/](https://god.owasp.de/2025/). Die [Videos](https://media.ccc.de/c/god2025) sind bereits online. Der nächste German OWASP Day wird am 23./24.9.2026 in Karlsruhe stattfinden.
+Der nächste German OWASP Day wird am 23./24.9.2026 in Karlsruhe stattfinden. Wie üblich werden wieder zwei Tracks haben an dem Konferenztag und wenige Community-Trainings am Tag davor. Nähere Angaben sind der [Webseite](https://god.owasp.de/2026/) zu entnehmen. Der Call for Trainings wird bald eröffnet, im Nachgang folgt der Call for Presentations,
+
+Der German [OWASP Day 2025](https://god.owasp.de/2025/) fand am 26.11.2025 in Düsseldorf statt, unsere Konferenz war ausverkauft. Es gab ein bombastisches [Programm](https://god.owasp.de/2025/#program), dieses Mal mit zwei Tracks, und wie üblich ein Networking-Event am Vorabend. Die Community-Trainings sowie das [Chapter-Meeting](https://owasp.org/www-chapter-germany/chapter_meetings/) fanden eine Tag davor statt. Details auf [god.owasp.de/2025/](https://god.owasp.de/2025/). Die [Videos](https://media.ccc.de/c/god2025) sind bereits online. 
 
 Am 13.11.2024 fand in Leizpig in einer [wunderschönen Lokation](https://www.michaelis-leipzig.de/de/wir-betreiben/da-capo-oldtimermuseum-eventhalle/) der [German OWASP Day](https://god.owasp.de/2024) statt. Das [Programm](https://god.owasp.de/2024/#program) konnte sich wirklich blicken lassen. Am Vortrag gibt es drei Trainings und an dem Abend gab es wie üblich unser Social Event und schöne eine Gelegenheit zum Fachsimpeln, zum Austausch und zum Wiedersehen. Dank dem C3VOC hatten wir kurzfristig sogar Live-Streaming und die [Videos der einzelnen Vorträge waren am selben Tag noch auf media.ccc.de](https://media.ccc.de/c/god2024).
 

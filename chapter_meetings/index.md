@@ -18,7 +18,6 @@ Wir treffen uns am 31. März 2026 um 20.30 Uhr hier: https://meet.google.com/oib
 Vorläufige Agenda:
  * Begrüßung und Vorstellung
  * Review altes Protokoll
- * Die Geschichte des OWASP Germany Chapters (Dirk, 15 Minuten)
  * German OWASP Day 2026
  * German OWASP Day 2027
 

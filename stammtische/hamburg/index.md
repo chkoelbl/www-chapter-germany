@@ -13,8 +13,8 @@ meetup-group: OWASP-Hamburg-Stammtisch
 
 ### Hamburg ist einen Vortrag Wert
 
-<b>Wir suchen immer Vorträge für unsere Treffen</b>. Denkst du, du hast ein interessantes Thema,
-dass du bei uns vorstellen möchtest? Dann sprich uns an (s.u.).  Wie bei OWASP üblich: Wir sind
+<b>Wir suchen immer Vorträge für unsere Treffen</b>. Hast du ein interessantes Thema,
+dass du bei uns vorstellen möchtest? Dann sprich uns gerne an (s.u.).  Wie bei OWASP üblich: Wir sind
 an Sicherheit im Internet -- Technik, Organisation, Entwicklung, Datenschutz -- interessiert. Nicht
 an Marketing, OWASP ist vendorunabhängig.
 
@@ -27,7 +27,9 @@ melden (vorname.nachname@owasp.org).
 Tritt unserer [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
 zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist immer etwas aktueller, zudem
 findet man auf Meetup immer den Abstract. Alternativ werden Treffen über die OWASP-Deutschland
-[Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt.
+[Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt. Wir 
+haben auch eine [Linked-Gruppe](https://www.linkedin.com/company/owasp-meeting-hamburg/) und 
+sind auf [Mastodon](https://infosec.exchange/@owasp_hamburg).
 
 Jeder Mensch mit Interesse an unseren Themen ist willkommen. Alle Treffen sind frei und
 offen, auch eine OWASP-Mitgliedschaft ist nicht erforderlich. Niemand verkauft etwas. Wir sind
@@ -38,7 +40,13 @@ gerne vorbei!
 
 ### Aktuelle Treffen
 
-- TBA
+### 74\. Treffen April 2026
+
+- Securityschnack / Networking
+- Ort: [Blockbräu Hamburg](https://www.openstreetmap.org/node/1700738403)
+- Treffen: 28.4.2026, Start: 18:00 Uhr
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/311916999/)
+
 
 ### Vergangene Treffen
 

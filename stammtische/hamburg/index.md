@@ -45,7 +45,7 @@ gerne vorbei!
 - Securityschnack / Networking
 - Ort: [Blockbräu Hamburg](https://www.openstreetmap.org/node/1700738403)
 - Treffen: 28.4.2026, Start: 18:00 Uhr
-- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/311916999/)
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/314339260/)
 
 
 ### Vergangene Treffen

@@ -14,7 +14,7 @@ meetup-group: OWASP-Hamburg-Stammtisch
 ### Hamburg ist einen Vortrag Wert
 
 <b>Wir suchen immer Vorträge für unsere Treffen</b>. Hast du ein interessantes Thema,
-dass du bei uns vorstellen möchtest? Dann sprich uns gerne an (s.u.).  Wie bei OWASP üblich: Wir sind
+dass du bei uns vorstellen möchtest? Dann sprich uns gerne an.  Wie bei OWASP üblich: Wir sind
 an Sicherheit im Internet -- Technik, Organisation, Entwicklung, Datenschutz -- interessiert. Nicht
 an Marketing, OWASP ist vendorunabhängig.
 
@@ -25,22 +25,22 @@ melden (vorname.nachname@owasp.org).
 ### Wie bekomme ich Treffen mit?
 
 Tritt unserer [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
-zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist immer etwas aktueller, zudem
-findet man auf Meetup immer den Abstract. Alternativ werden Treffen über die OWASP-Deutschland
-[Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt. Wir 
-haben auch eine [Linked-Gruppe](https://www.linkedin.com/company/owasp-meeting-hamburg/) und 
-sind auf [Mastodon](https://infosec.exchange/@owasp_hamburg).
+zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist etwas aktueller als diese Seite. Zudem
+findet man auf Meetup immer den Abstract, wie auch in unserer [Linkedin-Gruppe](https://www.linkedin.com/company/owasp-meeting-hamburg/) und 
+auf [Mastodon](https://infosec.exchange/@owasp_hamburg). Old School werden Treffen über die OWASP-Deutschland
+[Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt.
+
 
 Jeder Mensch mit Interesse an unseren Themen ist willkommen. Alle Treffen sind frei und
-offen, auch eine OWASP-Mitgliedschaft ist nicht erforderlich. Niemand verkauft etwas. Wir sind
+offen, eine OWASP-Mitgliedschaft ist nicht erforderlich. Niemand verkauft etwas. Wir sind
 an Erfahrungsaustausch und Technikschnack interessiert.  Hinweise auf diese Webseite bzw. die
-Meetup-Gruppe oder auf einzelne Treffen an Kollegen oder Bekannte sind gern gesehen. Kommt
+o.g. weiteren Seiten oder nur auf einzelne Treffen an Kollegen oder Bekannte sind gern gesehen. Kommt
 gerne vorbei!
 
 
 ### Aktuelle Treffen
 
-### 74\. Treffen April 2026
+### 75\. Treffen April 2026
 
 - Securityschnack / Networking
 - Ort: [Blockbräu Hamburg](https://www.openstreetmap.org/node/1700738403)
